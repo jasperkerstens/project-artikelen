@@ -3,9 +3,9 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 ## Getting Started
 
 
-Dit project is een nauwkeurige replica van verschillende artikels van De Standaard die is gebouwd met Nextjs en Tailwind CSS en is gepubliceerd via Netlify. Bij het ontwerpen van deze pagina's stonden leesbaarheid en merkidentiteit centraal waarbij geprobeerd is om de sfeer van een krant te vertalen naar een digitale omgeving door gebruik te maken van klassieke koppen met schreef en een moderne bladspiegel met veel witruimte.
+Dit project is een nagemaakte versie van artikels van De Standaard, gebouwd met Nextjs en Tailwind CSS. Het doel van de opdracht was om de professionele uitstraling en het fijne leesgevoel van een krant te vertalen naar een website door te kiezen voor klassieke letters en veel witruimte zodat het beeld rustig blijft.
 
-De content is beperkt tot een centrale kolom om de scanbaarheid te verhogen terwijl interactieve elementen zoals knoppen voor luisteren en delen de interactiviteit van de originele bron behouden. Het project maakt gebruik van de Nextjs App Router voor een snelle navigatie en een folderbased routing zodat elk artikel een eigen unieke URL heeft wat bijdraagt aan een overzichtelijke en gebruiksvriendelijke structuur.
+De teksten staan in een smalle kolom waardoor het lezen makkelijker gaat en er zijn simpele knoppen toegevoegd om te luisteren of te delen. Elk artikel heeft een eigen duidelijke link gekregen via de Nextjs App Router zodat de website logisch en makkelijk te gebruiken is voor iedereen.
 
 ```bash
 npm i
